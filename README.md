@@ -34,7 +34,7 @@ Visualization Graphs and Outcomes:
 
  Repository Contents:
 - `Zomato_Analysis.ipynb` → Jupyter/Colab notebook with code and visualizations  
-- `README.md` → Documentation with project definition, dataset usecase, visualization outcomes, libraries used, and contributors  
+- `README.md` → Documentation with project definition, dataset usecase, visualization outcomes, libraries used, and contributors 
 
 
 
